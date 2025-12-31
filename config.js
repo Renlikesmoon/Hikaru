@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-global.owner = "79861620303";
-global.nomorbot = "79861620303";
+global.owner = "";
+global.nomorbot = "";
 global.namebot = "Bot WhatsApp";
 global.prefix = ".";
 
